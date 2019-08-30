@@ -1,6 +1,6 @@
 # Project Overview
 Given a pair of stereo images of a desk with groceries, generate virtual image from arbitrary view. 
-![Alt text](IMG/L2.jpg?raw=true "Title")
+![Alt text](img/L2.jpg?raw=true "Title")
 The task can be seperated into three sub-tasks:
 
 
